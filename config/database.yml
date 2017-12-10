@@ -1,0 +1,7 @@
+development:
+    adapter:    postgresql
+    host:       localhost
+    database:   ordering_app_development
+    timeout:    5000
+    encoding:   utf8
+    pool:       5
